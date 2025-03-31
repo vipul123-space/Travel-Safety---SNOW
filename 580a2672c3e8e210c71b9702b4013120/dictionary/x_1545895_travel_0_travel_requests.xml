@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="2fc8723ac32ce210c71b9702b4013171" extends="task" label="Travel Requests" max_length="40" name="x_1545895_travel_0_travel_requests" type="collection">
+        <element label="Company event" max_length="32" name="company_event" reference="x_1545895_travel_0_company_events" type="reference"/>
+        <element label="Destination" max_length="32" name="destination" reference="core_country" type="reference"/>
+        <element choice="1" label="Type" max_length="40" name="type" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="External" sequence="1" value="external"/>
+                <element inactive_on_update="false" label="Internal" sequence="0" value="internal"/>
+            </choice>
+        </element>
+        <element label="Travel end" max_length="40" name="travel_end" type="glide_date"/>
+        <element label="Travel start" max_length="40" name="travel_start" type="glide_date"/>
+        <element label="Travel for event" max_length="40" name="travel_for_event" type="boolean"/>
+    </element>
+</database>

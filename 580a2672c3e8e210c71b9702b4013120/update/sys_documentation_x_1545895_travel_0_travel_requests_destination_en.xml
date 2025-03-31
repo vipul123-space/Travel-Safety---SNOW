@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="destination" label="Destination" language="en" table="x_1545895_travel_0_travel_requests">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>destination</element>
+            <help/>
+            <hint/>
+            <label>Destination</label>
+            <language>en</language>
+            <name>x_1545895_travel_0_travel_requests</name>
+            <plural/>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-03-31 19:58:33</sys_created_on>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_name>Destination</sys_name>
+            <sys_package display_value="Travel Safety" source="x_1545895_travel_0">580a2672c3e8e210c71b9702b4013120</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Travel Safety">580a2672c3e8e210c71b9702b4013120</sys_scope>
+            <sys_update_name>sys_documentation_x_1545895_travel_0_travel_requests_destination_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-03-31 19:58:35</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

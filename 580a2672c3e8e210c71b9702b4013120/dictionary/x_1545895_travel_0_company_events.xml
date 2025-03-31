@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="30b67e36c32ce210c71b9702b401312d" label="Company Events" max_length="40" name="x_1545895_travel_0_company_events" type="collection">
+        <element label="Name" max_length="255" name="name" type="string"/>
+        <element default="javascript:current.getTableName();" label="Class" max_length="80" name="sys_class_name" type="sys_class_name"/>
+        <element label="Country" max_length="32" name="country" reference="core_country" type="reference"/>
+        <index name="index">
+            <element name="country"/>
+        </index>
+        <index name="index2">
+            <element name="sys_class_name"/>
+        </index>
+    </element>
+</database>

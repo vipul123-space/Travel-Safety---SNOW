@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_list parent="" relationship="" sys_domain="global" table="x_1545895_travel_0_travel_requests" version="2" view="">
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>number</element>
+            <list_id display_value="x_1545895_travel_0_travel_requests" element="NULL" name="x_1545895_travel_0_travel_requests" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">80d8fef6c32ce210c71b9702b40131cf</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>0</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-03-31 19:52:08</sys_created_on>
+            <sys_id>0cd8fef6c32ce210c71b9702b40131cf</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-03-31 19:52:08</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>priority</element>
+            <list_id display_value="x_1545895_travel_0_travel_requests" element="NULL" name="x_1545895_travel_0_travel_requests" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">80d8fef6c32ce210c71b9702b40131cf</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>1</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-03-31 19:52:08</sys_created_on>
+            <sys_id>00d8fef6c32ce210c71b9702b40131d0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-03-31 19:52:08</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>state</element>
+            <list_id display_value="x_1545895_travel_0_travel_requests" element="NULL" name="x_1545895_travel_0_travel_requests" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">80d8fef6c32ce210c71b9702b40131cf</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>2</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-03-31 19:52:08</sys_created_on>
+            <sys_id>04d8fef6c32ce210c71b9702b40131d0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-03-31 19:52:08</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>assigned_to</element>
+            <list_id display_value="x_1545895_travel_0_travel_requests" element="NULL" name="x_1545895_travel_0_travel_requests" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">80d8fef6c32ce210c71b9702b40131cf</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>3</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-03-31 19:52:08</sys_created_on>
+            <sys_id>08d8fef6c32ce210c71b9702b40131d0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-03-31 19:52:08</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>short_description</element>
+            <list_id display_value="x_1545895_travel_0_travel_requests" element="NULL" name="x_1545895_travel_0_travel_requests" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">80d8fef6c32ce210c71b9702b40131cf</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>4</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-03-31 19:52:08</sys_created_on>
+            <sys_id>0cd8fef6c32ce210c71b9702b40131d0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-03-31 19:52:08</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>sys_class_name</element>
+            <list_id display_value="x_1545895_travel_0_travel_requests" element="NULL" name="x_1545895_travel_0_travel_requests" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">80d8fef6c32ce210c71b9702b40131cf</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>5</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-03-31 19:52:08</sys_created_on>
+            <sys_id>00d8fef6c32ce210c71b9702b40131d1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-03-31 19:52:08</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element/>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <name>x_1545895_travel_0_travel_requests</name>
+            <parent/>
+            <position/>
+            <relationship/>
+            <sum>false</sum>
+            <sys_class_name>sys_ui_list</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-03-31 19:52:08</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>80d8fef6c32ce210c71b9702b40131cf</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_1545895_travel_0_travel_requests</sys_name>
+            <sys_package display_value="Travel Safety" source="x_1545895_travel_0">580a2672c3e8e210c71b9702b4013120</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Travel Safety">580a2672c3e8e210c71b9702b4013120</sys_scope>
+            <sys_update_name>sys_ui_list_x_1545895_travel_0_travel_requests_null</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-03-31 19:52:08</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_list>
+    </sys_ui_list>
+</record_update>
